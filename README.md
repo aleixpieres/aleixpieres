@@ -35,7 +35,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,html,css,php,kotlin,java,bash," />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,html,css,kotlin," />
   </a>
 </p>
 
