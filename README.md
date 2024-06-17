@@ -1,16 +1,65 @@
-## Hi there 👋
 
-<!--
-**aleixpieres/aleixpieres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aleix Pieres</h1>
+<p align="center"> My name is Aleix Pieres and I am passionate about technology and computer science.Since I started my university career in Computer Engineering at EPSEVG in 2018, I have been immersed in the world of programming and computing, learning and working with multiple programming languages ​​such as C++, C, Python, Java, among others.
+   🚀💻</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=aleixpieres&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<img src="https://img.shields.io/badge/Languages-PHP | JavaScript | HTML5 | CSS3 | C++ -green.svg" alt="supun nanayakkara's languages" />
+<img alt="Profile followers" src="https://img.shields.io/github/followers/aleixpieres">
+</p>
+&nbsp;
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9v.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as **Google Cloud Networking TSR**
+
+- 🌱 I’m currently learning **Terraform & Kubernetes**
+
+- 👨‍💻 All of my projects are available [here](https://github.com/aleixpieres?tab=repositories)
+
+- 📫 How to reach me **aleixpierescarrasco@gmail.com**
+
+- 🌐 Ckeckout [my personal portfolio](https://aleixpieres.com/)
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aleix-pieres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,c,cpp,cs,html,css,js,jquery,ts,python,java,bash,nodejs" />
+  </a>
+</p>
+
+- Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,astro,bootstrap,unity,wordpress,django,express" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,phpstorm,git,github,bitbucket,linux,postman" />
+  </a>
+</p>
+
+- Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
