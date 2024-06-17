@@ -9,7 +9,7 @@
 </p>
 &nbsp;
 
-<img align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9v.svg">
+<img align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9.svg">
 
 - 🔭 I’m currently working as **Google Cloud Networking TSR**
 
@@ -35,21 +35,21 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,c,cpp,cs,html,css,js,jquery,ts,python,java,bash,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,html,css,php,kotlin,java,bash," />
   </a>
 </p>
 
 - Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,astro,bootstrap,unity,wordpress,django,express" />
+    <img src="https://skillicons.dev/icons?i=docker,django,gcp,unity" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,phpstorm,git,github,bitbucket,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,linux,postman" />
   </a>
 </p>
 
