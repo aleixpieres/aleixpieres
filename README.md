@@ -62,4 +62,10 @@
 
 <br/>
 
+    <summary>⚡ Stats</summary>
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=aleixpieres&&show_svgns=true)](https://github.com/aleixpieres)
+
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleixpieres&layout=compact)](https://github.com/aleixpieres)
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
