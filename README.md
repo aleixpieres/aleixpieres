@@ -61,8 +61,7 @@
 </p>
 
 <br/>
-
-    <summary>⚡ Stats</summary>
+<summary>⚡ Stats</summary>
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=aleixpieres&&show_svgns=true)](https://github.com/aleixpieres)
 
