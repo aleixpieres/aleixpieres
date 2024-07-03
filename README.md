@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aleix Pieres</h1>
-<p align="center"> My name is Aleix Pieres and I am passionate about technology and computer science.Since I started my university career in Computer Engineering at EPSEVG in 2018, I have been immersed in the world of programming and computing, learning and working with multiple programming languages ​​such as C++, C, Python, Java, among others.
+<p align="center"> My name is Aleix Pieres and I am passionate about technology and computer science.Since I started my university career in Computer Engineering at 2018 my love for computer science only have grown deeper.I have been immersed in the world of programming and computing for almost 7 years already, learning and working with multiple programming languages ​​such as C++, C, Python, Java, among others.
    🚀💻</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=aleixpieres&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
