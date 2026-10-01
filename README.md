@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aleixpierescarrasco@gmail.com**
 
-- 🌐 Checkout [my personal portfolio](https://aleixpieres.com/)
+- 🌐 Checkout [my personal portfolio](https://aleixpieres.github.io/)
 
 <br>
 <h3 align="left">Connect with me:</h3>
