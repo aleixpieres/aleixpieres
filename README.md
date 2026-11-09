@@ -28,10 +28,6 @@
 
 ### Selected builds
 
-**[HTTP load balancer ↗](https://github.com/aleixpieres/Terraform-http-loadbalancer)**<br>
-Google Cloud infrastructure in one configuration: a VPC, Cloud NAT, health checks, and two autoscaling managed instance groups.<br>
-`Terraform` `Google Cloud` `Infrastructure as code`
-
 **[PyPhantom ↗](https://github.com/aleixpieres/PyPhantom)**<br>
 A Discord integration prototype that uses Ollama for generated replies and summaries of recent conversations.<br>
 `Python` `discord.py` `Ollama`
