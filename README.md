@@ -46,26 +46,6 @@ A client-server protocol exercise exploring data blocks, acknowledgements, and t
 | Docker · GKE · Nginx | PostgreSQL · MySQL · MongoDB | HTML/CSS · C/C++ · Ollama |
 | Git · VPC · VPN | Data pipelines · Data quality | Service integrations |
 
-<details>
-<summary><b>Experience & background</b></summary>
-
-<br>
-
-| When | Role | Organization / area |
-| :--- | :--- | :--- |
-| **Sep 2025–present** | **Data Engineer** | **MediaMarktSaturn** |
-| 2024–2025 | DevOps Engineer | Doctomatic |
-| 2023–2024 | Cloud Technical Support · Frontline TSR | Google Cloud Platform |
-| 2022–2023 | Data Analyst | SDG Group |
-
-**Education:** EPSEVG · Universitat Politècnica de Catalunya, 2018–2023. My background also includes programming tutoring for university students.
-
-**Languages:** Catalan and Spanish (native/bilingual) · English (full professional proficiency).
-
-[More about my work →](https://aleixpieres.github.io/)
-
-</details>
-
 <br>
 
 ---
