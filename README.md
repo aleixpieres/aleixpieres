@@ -1,70 +1,46 @@
+# Hi, I'm Aleix Pieres
 
-<h1 align="center">Hi 👋, I'm Aleix Pieres</h1>
-<p align="center"> My name is Aleix Pieres and I am passionate about technology and computer science.Since I started my university career in Computer Engineering at 2018 my love for computer science only have grown deeper.I have been immersed in the world of programming and computing for almost 7 years already, learning and working with multiple programming languages ​​such as C++, C, Python, Java, among others.
-   🚀💻</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=aleixpieres&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<img src="https://img.shields.io/badge/Languages-C++ | Python | C | HTML5 | CSS3 -green.svg" alt="supun nanayakkara's languages" />
-<img alt="Profile followers" src="https://img.shields.io/github/followers/aleixpieres">
-</p>
-&nbsp;
+**Cloud & Data Engineer · Barcelona, Catalonia**
 
-<img align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9.svg">
+I work on data pipelines, cloud infrastructure, and the networking that connects them. Currently, I'm a **Data Engineer at MediaMarktSaturn**, focused on data quality, scalable processing, and dependable information for analytics.
 
-- 🔭 I’m currently working as **Google Cloud Networking TSR**
+[Portfolio](https://aleixpieres.github.io/) · [LinkedIn](https://www.linkedin.com/in/aleix-pieres/) · [Email](mailto:aleixpierescarrasco@gmail.com)
 
-- 🌱 I’m currently learning **Terraform & Kubernetes**
+## What I work on
 
-- 👨‍💻 All of my projects are available [here](https://github.com/aleixpieres?tab=repositories)
+- **Data engineering:** designing and maintaining pipelines for analytics and business decisions.
+- **Cloud & DevOps:** automating infrastructure and evolving platforms toward autoscaling and managed services.
+- **Networking:** investigating connectivity issues across Google Cloud load balancers, GKE, VPCs, VPNs, firewalls, Interconnect, and Cloud Armor.
 
-- 📫 How to reach me **aleixpierescarrasco@gmail.com**
+## Selected projects
 
-- 🌐 Checkout [my personal portfolio](https://aleixpieres.github.io/)
+| Project | What it explores | Tools |
+| --- | --- | --- |
+| [HTTP load balancer](https://github.com/aleixpieres/Terraform-http-loadbalancer) | Google Cloud infrastructure with a VPC, Cloud NAT, health checks, and two autoscaling managed instance groups. | Terraform, Google Cloud |
+| [PyPhantom](https://github.com/aleixpieres/PyPhantom) | A Discord integration prototype for generated replies and conversation summaries using Ollama. | Python, discord.py, Ollama |
+| [UDP file transfer](https://github.com/aleixpieres/UDPserver) | A client-server protocol exercise covering data blocks, acknowledgements, and timeout handling. | Python, sockets, UDP |
 
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aleix-pieres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-</p>
+[Explore all repositories →](https://github.com/aleixpieres?tab=repositories)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Tools & technologies
 
-<h3 align="left">Languages and Tools:</h3>
+- **Cloud & infrastructure:** Google Cloud, Terraform, Docker, GKE, Nginx, Git
+- **Data & analytics:** Python, SQL, Snowflake, PostgreSQL, MySQL, MongoDB
+- **Software & integrations:** Django, JavaScript, HTML, CSS, C, C++, Ollama
 
-- Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,html,css,kotlin," />
-  </a>
-</p>
+## Experience
 
-- Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,django,gcp,unity" />
-  </a>
-</p>
+| Period | Role | Organization / area |
+| --- | --- | --- |
+| Sep 2025–present | Data Engineer | MediaMarktSaturn |
+| 2024–2025 | DevOps Engineer | Doctomatic |
+| 2023–2024 | Cloud Technical Support · Frontline TSR | Google Cloud Platform |
+| 2022–2023 | Data Analyst | SDG Group |
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,linux,postman" />
-  </a>
-</p>
+My background includes studies at **EPSEVG, Universitat Politècnica de Catalunya (2018–2023)** and programming tutoring for university students.
 
-- Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres" />
-  </a>
-</p>
+I speak **Catalan and Spanish** at native/bilingual level and **English** with full professional proficiency.
 
-<br/>
+---
 
-<h3 align="left">⚡ Stats:</h3>
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=aleixpieres&&show_svgns=true)](https://github.com/aleixpieres)
-
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleixpieres&layout=compact)](https://github.com/aleixpieres)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+Interested in cloud infrastructure, data engineering, or technical collaboration? [Get in touch](mailto:aleixpierescarrasco@gmail.com).
