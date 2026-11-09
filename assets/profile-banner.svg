@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title">
+<title id="title">Aleix Pieres — Cloud and Data Engineer, Barcelona</title>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b9dac5" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="340" rx="20" fill="#092b24"/><rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<path d="M52 48h36" stroke="#dfbd76" stroke-width="4"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="104" y="53" font-size="13" letter-spacing="3" fill="#b9dac5">BARCELONA, CATALONIA</text><text x="50" y="153" font-size="76" font-weight="700" letter-spacing="-3" fill="#f7f1e5">ALEIX PIERES<tspan fill="#dfbd76">.</tspan></text><text x="54" y="204" font-size="26" fill="#f7f1e5">Cloud &amp; Data Engineer</text><text x="54" y="246" font-size="17" fill="#b9dac5">Cloud, data, and the connections between them.</text><text x="54" y="306" font-size="12" letter-spacing="3" fill="#dfbd76">PIPELINES / INFRASTRUCTURE / NETWORKING</text></g>
+<g fill="none" stroke="#7fae96" stroke-width="2"><path d="M835 99h104v71h100M835 241h104v-71M939 170h-104"/><rect x="785" y="69" width="100" height="60" rx="12" fill="#173e34"/><rect x="785" y="211" width="100" height="60" rx="12" fill="#173e34"/><rect x="1017" y="135" width="110" height="70" rx="12" fill="#173e34"/><circle cx="939" cy="170" r="10" fill="#dfbd76" stroke="#dfbd76"/><path d="M816 90h38m-38 10h28m-28 10h38M816 232h38m-38 10h28m-28 10h38" stroke="#b9dac5"/><ellipse cx="1072" cy="157" rx="23" ry="8" stroke="#dfbd76"/><path d="M1049 157v25c0 11 46 11 46 0v-25m-46 13c0 11 46 11 46 0" stroke="#dfbd76"/></g>
+</svg>

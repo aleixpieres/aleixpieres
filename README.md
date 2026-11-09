@@ -1,46 +1,80 @@
-# Hi, I'm Aleix Pieres
+﻿<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Aleix Pieres — Cloud & Data Engineer based in Barcelona. Pipelines, infrastructure, and networking.">
+</p>
 
-**Cloud & Data Engineer · Barcelona, Catalonia**
+<p align="center">
+  <a href="https://aleixpieres.github.io/"><img src="https://img.shields.io/badge/Portfolio-092b24?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/aleix-pieres/"><img src="https://img.shields.io/badge/LinkedIn-092b24?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:aleixpierescarrasco@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-092b24?style=for-the-badge" alt="Get in touch by email"></a>
+</p>
 
-I work on data pipelines, cloud infrastructure, and the networking that connects them. Currently, I'm a **Data Engineer at MediaMarktSaturn**, focused on data quality, scalable processing, and dependable information for analytics.
+<p align="center">
+  <b>Data Engineer at MediaMarktSaturn</b><br>
+  Building dependable data pipelines, automating cloud infrastructure,<br>
+  and understanding the networks that connect everything.
+</p>
 
-[Portfolio](https://aleixpieres.github.io/) · [LinkedIn](https://www.linkedin.com/in/aleix-pieres/) · [Email](mailto:aleixpierescarrasco@gmail.com)
+<br>
 
-## What I work on
+### Focus
 
-- **Data engineering:** designing and maintaining pipelines for analytics and business decisions.
-- **Cloud & DevOps:** automating infrastructure and evolving platforms toward autoscaling and managed services.
-- **Networking:** investigating connectivity issues across Google Cloud load balancers, GKE, VPCs, VPNs, firewalls, Interconnect, and Cloud Armor.
+<table>
+  <tr>
+    <td width="33%" valign="top"><h3>01 / Data</h3><p>Pipelines, data quality, and scalable processing for analytics and business decisions.</p></td>
+    <td width="33%" valign="top"><h3>02 / Cloud</h3><p>Infrastructure automation, autoscaling, and managed services that make platforms easier to operate.</p></td>
+    <td width="33%" valign="top"><h3>03 / Networks</h3><p>Google Cloud connectivity, load balancing, and troubleshooting across VPCs, VPNs, and GKE.</p></td>
+  </tr>
+</table>
 
-## Selected projects
+### Selected builds
 
-| Project | What it explores | Tools |
-| --- | --- | --- |
-| [HTTP load balancer](https://github.com/aleixpieres/Terraform-http-loadbalancer) | Google Cloud infrastructure with a VPC, Cloud NAT, health checks, and two autoscaling managed instance groups. | Terraform, Google Cloud |
-| [PyPhantom](https://github.com/aleixpieres/PyPhantom) | A Discord integration prototype for generated replies and conversation summaries using Ollama. | Python, discord.py, Ollama |
-| [UDP file transfer](https://github.com/aleixpieres/UDPserver) | A client-server protocol exercise covering data blocks, acknowledgements, and timeout handling. | Python, sockets, UDP |
+**[HTTP load balancer ↗](https://github.com/aleixpieres/Terraform-http-loadbalancer)**<br>
+Google Cloud infrastructure in one configuration: a VPC, Cloud NAT, health checks, and two autoscaling managed instance groups.<br>
+`Terraform` `Google Cloud` `Infrastructure as code`
 
-[Explore all repositories →](https://github.com/aleixpieres?tab=repositories)
+**[PyPhantom ↗](https://github.com/aleixpieres/PyPhantom)**<br>
+A Discord integration prototype that uses Ollama for generated replies and summaries of recent conversations.<br>
+`Python` `discord.py` `Ollama`
 
-## Tools & technologies
+**[UDP file transfer ↗](https://github.com/aleixpieres/UDPserver)**<br>
+A client-server protocol exercise exploring data blocks, acknowledgements, and timeout handling.<br>
+`Python` `Sockets` `Networking`
 
-- **Cloud & infrastructure:** Google Cloud, Terraform, Docker, GKE, Nginx, Git
-- **Data & analytics:** Python, SQL, Snowflake, PostgreSQL, MySQL, MongoDB
-- **Software & integrations:** Django, JavaScript, HTML, CSS, C, C++, Ollama
+[Browse all repositories →](https://github.com/aleixpieres?tab=repositories)
 
-## Experience
+### Toolkit
 
-| Period | Role | Organization / area |
-| --- | --- | --- |
-| Sep 2025–present | Data Engineer | MediaMarktSaturn |
+| Cloud & infrastructure | Data & analytics | Software & integrations |
+| :--- | :--- | :--- |
+| Google Cloud · Terraform | Python · SQL · Snowflake | Django · JavaScript |
+| Docker · GKE · Nginx | PostgreSQL · MySQL · MongoDB | HTML/CSS · C/C++ · Ollama |
+| Git · VPC · VPN | Data pipelines · Data quality | Service integrations |
+
+<details>
+<summary><b>Experience & background</b></summary>
+
+<br>
+
+| When | Role | Organization / area |
+| :--- | :--- | :--- |
+| **Sep 2025–present** | **Data Engineer** | **MediaMarktSaturn** |
 | 2024–2025 | DevOps Engineer | Doctomatic |
 | 2023–2024 | Cloud Technical Support · Frontline TSR | Google Cloud Platform |
 | 2022–2023 | Data Analyst | SDG Group |
 
-My background includes studies at **EPSEVG, Universitat Politècnica de Catalunya (2018–2023)** and programming tutoring for university students.
+**Education:** EPSEVG · Universitat Politècnica de Catalunya, 2018–2023. My background also includes programming tutoring for university students.
 
-I speak **Catalan and Spanish** at native/bilingual level and **English** with full professional proficiency.
+**Languages:** Catalan and Spanish (native/bilingual) · English (full professional proficiency).
+
+[More about my work →](https://aleixpieres.github.io/)
+
+</details>
+
+<br>
 
 ---
 
-Interested in cloud infrastructure, data engineering, or technical collaboration? [Get in touch](mailto:aleixpierescarrasco@gmail.com).
+<p align="center">
+  <b>Cloud infrastructure. Better data. Technical collaboration.</b><br>
+  <a href="mailto:aleixpierescarrasco@gmail.com">Let's connect →</a>
+</p>
